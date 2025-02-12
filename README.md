@@ -47,3 +47,16 @@
 - Install dependencies:
   ```bash
   pip install -r requirements.txt
+
+## 🚀 Running the Notebook
+1️⃣ **Clone the repository**
+  git clone https://github.com/your-username/Lang2Query.git
+  cd Lang2Query
+
+2️⃣ **Start Jupyter Notebook**
+Open Lang2Query.ipynb and run the cells step by step.
+
+##📜 References
+- TypeSQL (Yu et al., 2018)
+- Dataset Decomposition for LLMs (Pouransari et al., 2024)
+- Mistral-7B-Instruct
