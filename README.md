@@ -56,7 +56,7 @@
 2️⃣ **Start Jupyter Notebook**
 Open Lang2Query.ipynb and run the cells step by step.
 
-##📜 References
+## 📜 References
 - TypeSQL (Yu et al., 2018)
 - Dataset Decomposition for LLMs (Pouransari et al., 2024)
 - Mistral-7B-Instruct
