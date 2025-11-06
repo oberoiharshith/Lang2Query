@@ -50,7 +50,7 @@
 
 ## 🚀 Running the Notebook
 1️⃣ **Clone the repository**
-  git clone https://github.com/your-username/Lang2Query.git
+  git clone https://github.com/oberoiharshith/Lang2Query.git
   cd Lang2Query
 
 2️⃣ **Start Jupyter Notebook**
